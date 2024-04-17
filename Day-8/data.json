@@ -1,0 +1,16 @@
+{
+    "name": "Piya",
+    "age": 19,
+    "isStudent": true,
+    "email": "msnigdha328@gmail.com",
+    "city": "Kolkata",
+    "data": ["Hello",30,{
+        "name": "Piya",
+        "age": 19
+    }],
+    "data2":{
+        "name":"Priyanka",
+        "age":20
+    }
+}
+
