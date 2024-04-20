@@ -9,6 +9,6 @@ const myobj = {
     }
 }
 
-const string_fy = JSON.stringify(myobj);
+const string_fy = JSON.stringify(myobj); //convrts object to JSON
 
 console.log(string_fy);
